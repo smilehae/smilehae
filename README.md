@@ -1,6 +1,4 @@
-### Hi there 👋
-###  🌱 I’m currently learning App & Web & CS !   
-###  ✨ I'm novice programmer, but I will fall in love with programming 
+###  🌱 I’m currently learning dataStructure & algorithm & web & android & game 🚩
 
 <!--
 **smilehae/smilehae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
