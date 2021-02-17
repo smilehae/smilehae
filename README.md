@@ -1,4 +1,4 @@
-###  🌱 I’m currently learning JavaScript & Developing Game & 🚩
+###  🌱 I’m learning Making Websites & Developing Game & more 🚩
 
 <!--
 **smilehae/smilehae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
