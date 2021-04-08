@@ -1,4 +1,10 @@
-###  🌱 I’m learning Making Websites & Developing Game & more 🚩
+## 🌱 Hi, I'm mihae 🚩
+
+### These days I'm learning
+- Making Games
+- Frontend ( CSS, JS )
+- Backend (Spring, SpringBoot, MySQL)
+
 
 <!--
 **smilehae/smilehae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
