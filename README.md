@@ -2,7 +2,7 @@
 
 ### These days I'm learning
 - Making Games
-- Frontend ( CSS, JS )
+- Frontend ( CSS, JavaScript )
 - Backend (Spring, SpringBoot, MySQL)
 
 
