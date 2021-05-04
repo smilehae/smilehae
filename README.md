@@ -1,9 +1,7 @@
 ## 🌱 Hi, I'm mihae 🚩
 
 ### These days I'm learning
-- Frontend ( CSS, JavaScript )
-- Backend (Spring, SpringBoot, MySQL)
-- Making Games (Unity, C# )
+- Frontend ( CSS, JavaScript ) | Backend (Spring, SpringBoot, MySQL) | Making Games (Unity, C# )
 
 ### I have made
 - Game : farming RPG
