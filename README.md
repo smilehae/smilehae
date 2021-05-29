@@ -1,10 +1,13 @@
 ## 🌱 Hi, I'm mihae 🚩
 
 ### These days I'm learning
-- Frontend ( CSS, JavaScript ) | Backend (Spring, SpringBoot, MySQL) | Making Games (Unity, C# )
+- Frontend ( CSS, JavaScript ) | Backend (Spring, SpringBoot, MySQL) | Making Games (Unity, C# ) | Cloud Service(AWS)
 
 ### I have made
-- Game : farming RPG
+- Game : farming RPG ( in private repo now )
+
+### I am making
+- Web Service : Tick It (service that can write journal for travel)
 
 
 <!--
