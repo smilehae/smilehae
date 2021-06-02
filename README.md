@@ -9,6 +9,9 @@
 ### I am making
 - Web Service : Tick It (service that can write journal for travel)
 
+### I can use
+- after effect , photoshop, premier
+
 
 <!--
 **smilehae/smilehae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
