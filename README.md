@@ -21,10 +21,9 @@
 - voice acting & recording
 ### What I've Made
 #### 🌻WEB : Tick - IT 
-planning own travel /[website](http://3.36.224.224:3030)/ [Demo video](https://www.youtube.com/watch?v=0f2Z-i2MtYM&t=39s)  
-**🎮GAME**  
-#### One day, became a farmer
-farm simulation game / made inventory etc / private
+- planning own travel /[website](http://3.36.224.224:3030)/ [Demo video](https://www.youtube.com/watch?v=0f2Z-i2MtYM&t=39s)  
+#### 🎮GAME : One day, became a farmer
+- farm simulation game / made inventory etc / private
 
 
 
