@@ -3,7 +3,7 @@
 
 **Junior full stack Engineer**
 - want to learn everything about programming
-- 🏃‍♀️learing javascript, react, c++, algorithm
+- 🏃‍♀️learing pure javascript, c++, algorithm
 
 ### Language and Tools
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"> 
 ### Interest
 - making web service/ games
-- mixing, making video with Adobe afterEfect, premier
+- mixing voice, making video with Adobe AfterEfect, Premier
 - voice acting & recording
 ### What I've Made
 #### 🌻WEB : Tick - IT 
