@@ -1,7 +1,7 @@
 # Hi ✨, I'm Mihae
 *❤fall in love with code❤*  
 
-**happy game developer**
+**happy full stack engineer**
 - want to learn everything about programming
 - 🏃‍♀️learing c++, algorithm, game developing
 
@@ -16,7 +16,8 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
 
 ### Interest
-- making games / web services
+- making web services / games
+- solving algorithms
 - mixing voice, making video with Adobe AfterEfect, Premier
 - voice acting & recording
 ### What I've Made
