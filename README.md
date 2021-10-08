@@ -2,8 +2,8 @@
 *❤fall in love with code❤*  
 
 **happy full stack engineer**
-- want to learn everything about programming
-- 🏃‍♀️learing c++, algorithm, game developing
+- code whatever I want
+- 🏃‍♀️learing React, C++ , algorithm, JavaScript etc 
 
 ### Language and Tools
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C-Sharp&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">  
@@ -19,6 +19,7 @@
 - making web services / games
 - solving algorithms
 - mixing voice, making video with Adobe AfterEfect, Premier
+- making 3D graphics with cinema4D
 - voice acting & recording
 ### What I've Made
 #### 🎮GAME : One day, became a farmer
