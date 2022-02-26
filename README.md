@@ -13,17 +13,18 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white">  
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C-Sharp&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">  
 ### Interest
-- making web services / games
+- making web services
 - solving algorithms
 - mixing voice, making video with Adobe AfterEfect, Premier
 - making 3D graphics with cinema4D
 - voice acting & recording
 ### What I've Made
+#### 🌻WEB : Tick - I
+- planning own travel /[website](http://3.36.224.224:3030)/ [Demo video](https://www.youtube.com/watch?v=0f2Z-i2MtYM&t=39s)  
+
 #### 🎮GAME : One day, became a farmer
 - farm simulation game / made inventory etc / [github](https://github.com/team-Primis/Farm_Totall)
 
-#### 🌻WEB : Tick - I
-- planning own travel /[website](http://3.36.224.224:3030)/ [Demo video](https://www.youtube.com/watch?v=0f2Z-i2MtYM&t=39s)  
 
 
 
