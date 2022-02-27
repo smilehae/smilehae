@@ -1,7 +1,7 @@
 # Hi ✨, I'm Mihae
 *❤fall in love with code❤*  
 
-**happy full stack engineer**
+**happy front-end engineer**
 - code whatever I want
 - 🏃‍♀️learing React,JavaScript, C++ , algorithm,  etc 
 
