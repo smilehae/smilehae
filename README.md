@@ -1,9 +1,9 @@
-# Hi ✨, I'm Mihae
+## 안녕하세요👋 새로운 기획을 개발하는 것을 좋아하는 개발자 편미해입니다 ☺
 *❤fall in love with code❤*  
 
-**행복한 프론트엔드 엔지니어**
+**Now**
 - 프로그래머스의 프론트엔드 데브코스에 참여하고 있습니다.
-- 🏃‍♀️ React,JavaScript, C++ , 알고리즘 등을 공부합니다.
+- 🏃‍♀바닐라 자바스크립트의 컴포넌트 기반 개발에 관심이 많습니다.
 
 ### Language and Tools
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">  
@@ -23,8 +23,8 @@
 
 
  ### 취미
-- 프로그래밍으로 다양한 서비스를 만드는 것을 좋아합니다.
-- 더빙, 낭독봉사 등 목소리 녹음을 즐깁니다.
+- 프로그래밍으로 다양한 서비스를 기획하고 개발하는 것을 좋아합니다.
+- 더빙, 낭독봉사 등 목소리 녹음을 종종 합니다!
 - Adobe AfterEffect, Premier로 동영상 편집, Cinama4D로 3D그래픽 만드는 것을 좋아합니다.
 
 
