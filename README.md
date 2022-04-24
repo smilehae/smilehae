@@ -3,7 +3,7 @@
 
 ### 🏃‍ Now
 - 프로그래머스의 프론트엔드 데브코스에 참여하고 있습니다.
-- ♀바닐라 자바스크립트의 컴포넌트 기반 개발에 관심이 많습니다.
+- 바닐라 자바스크립트의 컴포넌트 기반 개발에 관심이 많습니다.
 
 ### 💻 Language and Tools
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">  
