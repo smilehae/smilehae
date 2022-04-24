@@ -1,7 +1,7 @@
 ## 안녕하세요👋 새로운 기획을 개발하는 것을 좋아하는 개발자 편미해입니다 ☺
 *❤fall in love with code❤*  
 
-**Now**
+### Now
 - 프로그래머스의 프론트엔드 데브코스에 참여하고 있습니다.
 - 🏃‍♀바닐라 자바스크립트의 컴포넌트 기반 개발에 관심이 많습니다.
 
@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C-Sharp&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">  
 
 
-### 프로젝트
+### Project
 #### 🌻WEB : Tick - It
 - 티켓과 포스트잇으로 여행을 기록하는 사이트/[방문하기](http://3.36.224.224:3030)/ [동작 영상](https://www.youtube.com/watch?v=0f2Z-i2MtYM&t=39s)  
 
@@ -22,7 +22,7 @@
 - 농장 시뮬레이션 게임 / 인벤토리, UI 담당했습니다 / [github](https://github.com/team-Primis/Farm_Totall)
 
 
- ### 취미
+ ### Hobby
 - 프로그래밍으로 다양한 서비스를 기획하고 개발하는 것을 좋아합니다.
 - 더빙, 낭독봉사 등 목소리 녹음을 종종 합니다!
 - Adobe AfterEffect, Premier로 동영상 편집, Cinama4D로 3D그래픽 만드는 것을 좋아합니다.
