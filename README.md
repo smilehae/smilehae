@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffd5d5,100:ffdcc4&height=200&section=header&text=안녕하세요&fontSize=30&fontAlignY=40&desc=디자인과%20개발을%20좋아하는%20개발자%20편미해입니다&descSize=16&descAlignY=55&animation=fadeIn&fontColor=33312f)
 ### 🏃‍ Now
 - 프로그래머스의 프론트엔드 데브코스에 참여하고 있습니다.
-- 레벨링 기반 퀴즈 프로젝트를 진행하고 있습니다.
+- 레벨링 기반 퀴즈 프로젝트(CheQuiz)를 진행하고 있습니다.
 
 ### 💻 Language and Tools
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">  
