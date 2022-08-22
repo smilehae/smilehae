@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffd5d5,100:ffdcc4&height=200&section=header&text=안녕하세요&fontSize=30&fontAlignY=40&desc=가독성과%20사용성을%20중요하게%20생각하는%20개발자%20편미해입니다&descSize=16&descAlignY=55&animation=fadeIn&fontColor=33312f)
 ### 🏃‍ Now
-- 프로그래머스의 프론트엔드 데브코스에 참여하고 있습니다.
 - 레벨링 기반 퀴즈 프로젝트(CheQuiz)를 진행하고 있습니다.
 
 ### 💻 Language & Design
@@ -8,7 +7,7 @@
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"><img src="https://img.shields.io/badge/Emotion-af8eb5.svg?style=flat-square&logo=motion&logoColor=white"> 
 
 ### ⛵ Devops & Database
-<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white">  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white">  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smilehae&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
