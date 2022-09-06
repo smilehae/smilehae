@@ -24,7 +24,7 @@
   </li>
   <li>
    <h4>CheQuiz</h4>
-   <p>퀴즈를 통한 개발지식 점검 서비스</p>
+   <p>퀴즈를 통한 개발지식 점검 페이지</p>
    <a href="https://develop.d32yumw4llxi0t.amplifyapp.com/">방문하기</a><span> | </span><a href="https://github.com/prgrms-fe-devcourse/FEDC2_CheQuiz_Gidong">github</a>
   </li>
  </ul>
